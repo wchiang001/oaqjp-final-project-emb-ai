@@ -1,0 +1,10 @@
+theia@theiadocker-nicholaschia:/home/project/oaqjp-final-project-emb-ai$ pylint server.py
+************* Module server
+server.py:14:0: C0301: Line too long (165/100) (line-too-long)
+server.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+server.py:7:0: C0116: Missing function or method docstring (missing-function-docstring)
+server.py:14:11: C0209: Formatting a regular string which could be an f-string (consider-using-f-string)
+server.py:20:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 6.15/10 (previous run: 4.62/10, +1.54)
